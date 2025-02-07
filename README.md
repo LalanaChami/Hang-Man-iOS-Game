@@ -14,9 +14,6 @@ This is a Hang Man game iOS app built using UIKit and Swift.
 
 ![Demo Video](./demo_recording.gif)
 
-## Project Structure
-HangMan/ ├── HangMan/AppDelegate.swift ├── Assets.xcassets/ │ ├── AccentColor.colorset/ │ ├── AppIcon.appiconset/ │ ├── HangMan/Assets.xcassets/AccentColor.colorset/Contents.json │ ├── img_1.imageset/ │ ├── img_2.imageset/ │ ├── img_3.imageset/ │ ├── img_4.imageset/ │ ├── img_5.imageset/ │ ├── img_6.imageset/ │ └── img_7.imageset/ ├── Base.lproj/ │ ├── HangMan/Base.lproj/LaunchScreen.storyboard │ └── HangMan/Base.lproj/Main.storyboard ├── const/ │ └── HangMan/const/words.swift ├── HangMan/Info.plist ├── HangMan/SceneDelegate.swift └── HangMan/ViewController.swift HangMan.xcodeproj ├── HangMan.xcodeproj/project.pbxproj └── project.xcworkspace/ ├── HangMan.xcodeproj/project.xcworkspace/contents.xcworkspacedata └── xcuserdata/
-
 ## Getting Started
 
 ### Prerequisites
